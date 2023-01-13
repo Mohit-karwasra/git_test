@@ -1,1 +1,2 @@
 Hello World!
+This is to check how to commit from VSCode.

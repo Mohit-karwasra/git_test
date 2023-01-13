@@ -1,3 +1,3 @@
 # git_test
-My Git_hub r test repo
+My Git_hub test repo
 Hello Odin!

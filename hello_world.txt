@@ -1,2 +1,3 @@
 Hello World!
 This is to check how to commit from VSCode.
+This is changed in new branch.
